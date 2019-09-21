@@ -2,6 +2,7 @@
 
 Author: Xin Liu
 Stanford University
+
 This work is under the Creative Commons (CC) license 3.0: Attribution-NonCommercial-NoDerivs 3.0
 https://creativecommons.org/licenses/by-nc-nd/3.0/
 
