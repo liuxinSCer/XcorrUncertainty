@@ -1,6 +1,7 @@
 # Uncertainty in ambient seismic noise cross correlation
 
 Author: Xin Liu
+
 Stanford University
 
 This work is under the Creative Commons (CC) license 3.0: Attribution-NonCommercial-NoDerivs 3.0
