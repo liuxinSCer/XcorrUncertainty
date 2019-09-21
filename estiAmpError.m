@@ -1,5 +1,7 @@
 function stderrTD=estiAmpError(fltrcoef,freqerrornorm,subindspec,npts)
-
+% Created by Xin Liu at Stanford University
+% All rights reserved. 2019
+% CC BY-NC-ND 3.0
 midp=length(fltrcoef);
 npts=midp*2-1;
 
