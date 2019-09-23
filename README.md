@@ -12,6 +12,8 @@ If you use any part of this program in your research, please cite:
 Liu, X., & Beroza, G. (2019). Quantifying the effects of non-diffuse noise on ballistic and coda wave amplitude from variances of seismic noise interferometry in Southern California.
 https://doi.org/10.1002/essoar.10500859.1
 
+Liu, X., Ben-Zion, Y., & Zigone, D. (2016). Frequency domain analysis of errors in cross-correlations of ambient seismic noise. Geophysical Journal International, 207(3), 1630-1652. https://doi.org/10.1093/gji/ggw361
+
 
 The main program is driveXcorrDiffuseUncertainty_SymmetricSynthetics.m
 
